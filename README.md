@@ -1,3 +1,5 @@
+Приложение для внесения текстовых заметок и поиск этих заметок по хешу в БД
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
